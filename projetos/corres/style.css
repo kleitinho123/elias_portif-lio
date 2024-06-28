@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    background: linear-gradient(#5CC8F2, #fff)
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+font-weight: 100;
+font-family: titulo;
+  color: rgb(0, 238, 255);
+  text-shadow: 2px 2px #fff;
+
+}
+
+p{
+  color: rgb(2, 26, 26);
+  font-size: 1.2rem;
+  font-size: large;
+ 
+}
+
+
+
+
+
+
+
+
+
+@font-face {
+  font-family:titulo;
+  src: url('Nicolast.ttf');
+}
+
+
